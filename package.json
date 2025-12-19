@@ -38,23 +38,14 @@
   "dependencies": {
     "express": "^4.18.2",
     "axios": "^1.6.2",
-    "qrcode-terminal": "^0.12.0",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
-    "mime-types": "^2.1.35",
     "fs-extra": "^11.2.0",
-    "socket.io": "^4.7.2",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  },
-  "optionalDependencies": {
-    "@adiwajshing/baileys": "^6.4.0",
-    "telegraf": "^4.12.2",
-    "node-cron": "^3.0.2",
-    "sharp": "^0.33.1"
   },
   "bot": {
     "name": "SILA X WEED BOT",
